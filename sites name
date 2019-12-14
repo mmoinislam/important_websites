@@ -2,3 +2,4 @@ http://convertjson.com/json-to-html-table.htm
 // for json 2 html
 http://convertjson.com/html-table-to-json.htm
 // for html 2 json
+// example : https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail
